@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe Using Matrix in python
+Rock Paper Scissors using Matrix in Python
