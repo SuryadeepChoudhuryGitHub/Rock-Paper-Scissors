@@ -40,7 +40,7 @@ while i <1:
         print("player wins!")
 
     while True:
-        ask = input("do you want co continue: ").lower()
+        ask = input("do you want to continue: ").lower()
 
         if ask == "n":
             i = 2
@@ -50,3 +50,4 @@ while i <1:
         else:
             print("invalid input")
             
+
