@@ -18,7 +18,7 @@ while i <1:
 
     computer_in = random.randint(0,2)
 
-    computer_out = ["Rock", "Paper", "Scossor"]
+    computer_out = ["Rock", "Paper", "Scissor"]
 
     score = [
           # computer
@@ -50,4 +50,5 @@ while i <1:
         else:
             print("invalid input")
             
+
 
